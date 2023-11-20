@@ -1,0 +1,16 @@
+Creating a Room =>post
+http://localhost:8000/rooms
+
+Booking a Room => post 
+http://localhost:8000/user
+
+List all Rooms with Booked data => get
+http://localhost:8000/user
+
+List all Customers with Booked data => get
+http://localhost:8000/user/allcustomers
+
+List how many times a customer has booked the room => get
+http://localhost:8000/user/customer_name
+
+https://www.postman.com/planetary-crescent-492103/workspace/tasks/collection/30449018-41619881-0090-4ec1-85bc-7932229e44f0?action=share&creator=30449018
